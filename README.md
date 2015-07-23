@@ -21,7 +21,7 @@ or
 
 Contributing
 ----------------------
-If you have have a contribution for this repository, please send a pull request.
+If you would like to contribute to this repository, please send a pull request.
 
 
 License
